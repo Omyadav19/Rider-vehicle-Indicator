@@ -9,6 +9,6 @@
 Python | Django | React | Hugging Face | FAISS
 
 ### 🚀 Top Projects
-- [AI Therapist Chatbot](https://github.com/alex/ai-therapist)
+- [AI Therapist Chatbot](ithub.com/Omyadav19/HealBot)
 - [Offline RAG System](https://github.com/alex/offline-rag)
 
