@@ -39,5 +39,5 @@ To maximize ride availability and convenience by allowing users to book open sea
 ---
 Thank you for visiting this project!  
 If you found it helpful, please ⭐️ the repo and connect with me:  
-🔗 [GitHub](https://github.com/alexdev) | 🔗 [LinkedIn](https://linkedin.com/in/alexdev)
+🔗 [GitHub](https://github.com/Omyadav19) | 🔗 [LinkedIn](https://linkedin.com/in/Omyadav19)
 
